@@ -1,0 +1,14 @@
+{
+  "name": "electron-clock",
+  "version": "1.0.0",
+  "description": "First attempt at making a desktop app with javascript and electron.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.3.1"
+  }
+}
